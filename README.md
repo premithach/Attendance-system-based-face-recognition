@@ -21,3 +21,10 @@ The system enhances efficiency and accuracy, streamlining administrative tasks t
 #### 5. Viewing Attendance
 - Click "View Attendance" to display attendance records in a tabular format.
 - Data is subject-specific and stored for future reference.
+
+# Steps to follow
+1. **Clone the Repository**: Download or clone the repository to your local machine.  
+2. **Install Dependencies**: Run `pip install -r requirements.txt` in the terminal to install all the necessary packages.  
+3. **Set Up Training Folder**: Create a `TrainingImage` folder in the project directory to store training data.  
+4. **Update File Paths**: Open `attendance.py` and `automaticAttendance.py`, and update the file paths as per your system configuration.  
+5. **Run the Application**: Execute the `attendance.py` file to start the system.  
