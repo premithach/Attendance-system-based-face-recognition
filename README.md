@@ -2,7 +2,7 @@
 Developed a Face Recognition-Based Attendance Management System using Python and OpenCV, integrating a Tkinter GUI for student registration, facial data training, real-time attendance marking, and record management. 
 The system enhances efficiency and accuracy, streamlining administrative tasks through automated processes and reducing manual errors.
 
-# Project Workflow
+## Project Workflow
 #### 1. System Initialization
 * Launch the program.  </br>
 * Select "Register New Student" to register a face. </br>
@@ -22,7 +22,7 @@ The system enhances efficiency and accuracy, streamlining administrative tasks t
 - Click "View Attendance" to display attendance records in a tabular format.
 - Data is subject-specific and stored for future reference.
 
-# Steps to follow
+## Steps to follow
 1. **Clone the Repository**: Download or clone the repository to your local machine.  
 2. **Install Dependencies**: Run `pip install -r requirements.txt` in the terminal to install all the necessary packages.  
 3. **Set Up Training Folder**: Create a `TrainingImage` folder in the project directory to store training data.  
